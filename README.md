@@ -6,9 +6,12 @@ Misinformation is not a new phenomenon but the popularity and ubiquity of social
 3. We evaluate different machine learning classifiers to discriminate HCM and LCM using two features extraction modalities <br>
 
 ## Dataset
-Dataset of 190.000 Italian tweets from March using; <br>
+Dataset of 190.000 Italian tweets from March; <br>
 Scraping articles linked in tweets, if presents; <br>
 Lists of High Credibility Media (HCM) and Low Credibility Media (LCM); <br>
 HCM articles = 2192; LCM articles 447 -> unbalanced dataset. <br>
 
 ## Features Extraction
+Two ways: <br<
+1. Frequency–Inverse Document Frequency (TF-IDF) $$\frac{TF}{N}
+2. Stylometry
