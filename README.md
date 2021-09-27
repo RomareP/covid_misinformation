@@ -1,1 +1,2 @@
-# covid_misinformation
+# Spotting SARS-COV-2 Misinformation in Italy
+Misinformation is not a new phenomenon but the popu- larity and ubiquity of social media speed up that the amount and velocity at which information is produced and spreads greatly outpaces our ability to evaluate whether it is correct and unbiased. This is especially important in healthcare, where misinformation can influence attitudes and health be- haviours that can lead to harm.
