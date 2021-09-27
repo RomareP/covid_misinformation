@@ -13,5 +13,17 @@ HCM articles = 2192; LCM articles 447 -> unbalanced dataset. <br>
 
 ## Features Extraction
 Two ways: <br<
-1. Frequency–Inverse Document Frequency (TF-IDF) $$\frac{TF}{N}$$
+1. Frequency–Inverse Document Frequency (TF-IDF)
 2. Stylometry
+
+## Models
+1. Logistic Regression, 
+2. K Nearest Neighbors, 
+3. Decision Tree, 
+4. Random Forest, 
+5. Support Vector Machine
+
+## Evaluation
+Recall/Sensitivity/TPR = LCM is classified as LCM. <br>
+Specificity/TNR = HCM is classified as HCM. <br>
+FPR = HCM is classified as LCM. <br>
