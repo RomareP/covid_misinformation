@@ -13,5 +13,5 @@ HCM articles = 2192; LCM articles 447 -> unbalanced dataset. <br>
 
 ## Features Extraction
 Two ways: <br<
-1. Frequency–Inverse Document Frequency (TF-IDF) $$\frac{TF}{N}
+1. Frequency–Inverse Document Frequency (TF-IDF) $\frac{TF}{N}$
 2. Stylometry
