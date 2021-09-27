@@ -9,10 +9,10 @@ Misinformation is not a new phenomenon but the popularity and ubiquity of social
 Dataset of 190.000 Italian tweets from March; <br>
 Scraping articles linked in tweets, if presents; <br>
 Lists of High Credibility Media (HCM) and Low Credibility Media (LCM); <br>
-HCM articles = 2192; LCM articles 447 -> unbalanced dataset. <br>
+HCM articles = 2192 + LCM articles 447 = unbalanced dataset. <br>
 
 ## Features Extraction
-Two ways: <br<
+Two ways:
 1. Frequency–Inverse Document Frequency (TF-IDF)
 2. Stylometry
 
@@ -21,7 +21,7 @@ Two ways: <br<
 2. K Nearest Neighbors, 
 3. Decision Tree, 
 4. Random Forest, 
-5. Support Vector Machine
+5. Support Vector Machine.
 
 ## Evaluation
 Recall/Sensitivity/TPR = LCM is classified as LCM. <br>
